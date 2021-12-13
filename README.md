@@ -27,5 +27,3 @@ This work proposes a feature refined end-to-end tracking framework with a balanc
 ![example](./results/qualative_results.jpg)
 
 
-#### The code will release soon for this project....
-
